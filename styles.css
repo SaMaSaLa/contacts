@@ -1,4 +1,25 @@
 * {
   margin: 0%;
   padding: 0%;
+  user-select: none;
+}
+td {
+  padding: 5px;
+}
+
+input {
+  padding: 5px;
+  border: 1px solid #345;
+}
+input:focus {
+  background-color: #cef;
+}
+
+#error {
+  color: white;
+  background-color: rgb(251, 112, 112);
+  margin: 16px;
+  padding: 16px;
+  border-radius: 10px;
+  display: none;
 }
