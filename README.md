@@ -1,12 +1,12 @@
-# name-of-repository
+# Contacts
 
-### description-here
+### Add contacts of important people
 
 Links:
 
-- [Demo](https://samasala.github.io/<repository-name>/)
+- [Demo](https://samasala.github.io/contacts/)
 
-- [Repository](https://samasala.github.io/<repository-name>/)
+- [Repository](https://github.com/SaMaSaLa/contacts/)
 
 Authors:
 
